@@ -9,8 +9,8 @@ xmlns="http://www.w3.org/TR/REC-html40">
 <meta name=ProgId content=Word.Document>
 <meta name=Generator content="Microsoft Word 15">
 <meta name=Originator content="Microsoft Word 15">
-<link rel=File-List href="index2_files/filelist.xml">
-<link rel=Edit-Time-Data href="index2_files/editdata.mso">
+<link rel=File-List href="index_files/filelist.xml">
+<link rel=Edit-Time-Data href="index_files/editdata.mso">
 <!--[if !mso]>
 <style>
 v\:* {behavior:url(#default#VML);}
@@ -23,30 +23,29 @@ w\:* {behavior:url(#default#VML);}
   <o:Author>Matthew Hurley</o:Author>
   <o:Template>Normal</o:Template>
   <o:LastAuthor>Matthew Hurley</o:LastAuthor>
-  <o:Revision>2</o:Revision>
-  <o:TotalTime>1433</o:TotalTime>
+  <o:Revision>6</o:Revision>
+  <o:TotalTime>1422</o:TotalTime>
   <o:LastPrinted>2018-08-02T21:18:00Z</o:LastPrinted>
-  <o:Created>2018-08-03T21:17:00Z</o:Created>
-  <o:LastSaved>2018-08-03T21:17:00Z</o:LastSaved>
+  <o:Created>2018-08-03T20:39:00Z</o:Created>
+  <o:LastSaved>2018-08-03T20:52:00Z</o:LastSaved>
   <o:Pages>1</o:Pages>
-  <o:Words>303</o:Words>
-  <o:Characters>1728</o:Characters>
+  <o:Words>308</o:Words>
+  <o:Characters>1757</o:Characters>
   <o:Lines>14</o:Lines>
   <o:Paragraphs>4</o:Paragraphs>
-  <o:CharactersWithSpaces>2027</o:CharactersWithSpaces>
+  <o:CharactersWithSpaces>2061</o:CharactersWithSpaces>
   <o:Version>16.00</o:Version>
  </o:DocumentProperties>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
 </xml><![endif]-->
-<link rel=dataStoreItem href="index2_files/item0001.xml"
-target="index2_files/props002.xml">
-<link rel=themeData href="index2_files/themedata.thmx">
-<link rel=colorSchemeMapping href="index2_files/colorschememapping.xml">
+<link rel=dataStoreItem href="index_files/item0008.xml"
+target="index_files/props009.xml">
+<link rel=themeData href="index_files/themedata.thmx">
+<link rel=colorSchemeMapping href="index_files/colorschememapping.xml">
 <!--[if gte mso 9]><xml>
  <w:WordDocument>
-  <w:Zoom>140</w:Zoom>
   <w:SpellingState>Clean</w:SpellingState>
   <w:GrammarState>Clean</w:GrammarState>
   <w:TrackMoves>false</w:TrackMoves>
@@ -71,7 +70,6 @@ target="index2_files/props002.xml">
    <w:DontFlipMirrorIndents/>
    <w:OverrideTableStyleHps/>
   </w:Compatibility>
-  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
   <m:mathPr>
    <m:mathFont m:val="Cambria Math"/>
    <m:brkBin m:val="before"/>
@@ -705,7 +703,7 @@ target="index2_files/props002.xml">
 	margin-right:0in;
 	margin-bottom:8.0pt;
 	margin-left:0in;
-	line-height:106%;
+	line-height:107%;
 	mso-pagination:widow-orphan;
 	font-size:11.0pt;
 	font-family:"Calibri",sans-serif;
@@ -717,31 +715,12 @@ target="index2_files/props002.xml">
 	mso-hansi-theme-font:minor-latin;
 	mso-bidi-font-family:"Times New Roman";
 	mso-bidi-theme-font:minor-bidi;}
-p.msonormal0, li.msonormal0, div.msonormal0
-	{mso-style-name:msonormal;
-	mso-style-unhide:no;
-	mso-margin-top-alt:auto;
-	margin-right:0in;
-	mso-margin-bottom-alt:auto;
-	margin-left:0in;
-	mso-pagination:widow-orphan;
-	font-size:12.0pt;
-	font-family:"Times New Roman",serif;
-	mso-fareast-font-family:"Times New Roman";
-	mso-fareast-theme-font:minor-fareast;}
 span.SpellE
 	{mso-style-name:"";
 	mso-spl-e:yes;}
-span.GramE
-	{mso-style-name:"";
-	mso-gram-e:yes;}
 .MsoChpDefault
 	{mso-style-type:export-only;
 	mso-default-props:yes;
-	font-size:10.0pt;
-	mso-ansi-font-size:10.0pt;
-	mso-bidi-font-size:10.0pt;
-	font-family:"Calibri",sans-serif;
 	mso-ascii-font-family:Calibri;
 	mso-ascii-theme-font:minor-latin;
 	mso-fareast-font-family:Calibri;
@@ -750,6 +729,10 @@ span.GramE
 	mso-hansi-theme-font:minor-latin;
 	mso-bidi-font-family:"Times New Roman";
 	mso-bidi-theme-font:minor-bidi;}
+.MsoPapDefault
+	{mso-style-type:export-only;
+	margin-bottom:8.0pt;
+	line-height:107%;}
 @page WordSection1
 	{size:8.5in 16.0in;
 	margin:1.0in 1.0in 1.0in 1.0in;
@@ -771,10 +754,13 @@ div.WordSection1
 	mso-style-priority:99;
 	mso-style-parent:"";
 	mso-padding-alt:0in 5.4pt 0in 5.4pt;
-	mso-para-margin:0in;
-	mso-para-margin-bottom:.0001pt;
+	mso-para-margin-top:0in;
+	mso-para-margin-right:0in;
+	mso-para-margin-bottom:8.0pt;
+	mso-para-margin-left:0in;
+	line-height:107%;
 	mso-pagination:widow-orphan;
-	font-size:10.0pt;
+	font-size:11.0pt;
 	font-family:"Calibri",sans-serif;
 	mso-ascii-font-family:Calibri;
 	mso-ascii-theme-font:minor-latin;
@@ -818,15 +804,14 @@ background:#D9D9D9;mso-shading-themecolor:background1;mso-shading-themeshade:
  </v:formulas>
  <v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect"/>
  <o:lock v:ext="edit" aspectratio="t"/>
-</v:shapetype><v:shape id="Picture_x0020_1" o:spid="_x0000_i1025" type="#_x0000_t75"
- alt="cid:image001.png@01D42B09.3E1635D0" style='width:683.25pt;height:393pt;
- visibility:visible;mso-wrap-style:square'>
- <v:imagedata src="index2_files/image001.png" o:title="image001.png@01D42B09"/>
+</v:shapetype><v:shape id="_x0000_i1025" type="#_x0000_t75" style='width:683.25pt;
+ height:393pt;visibility:visible'>
+ <v:imagedata src="index_files/image001.png" o:href="cid:image001.png@01D42B09.3E1635D0"/>
 </v:shape><![endif]--><![if !vml]><img width=911 height=524
-src="index2_files/image002.png" alt="cid:image001.png@01D42B09.3E1635D0"
-v:shapes="Picture_x0020_1"><![endif]></span><span style='font-size:14.0pt;
-mso-bidi-font-size:12.0pt;font-family:"Cambria",serif;mso-fareast-font-family:
-"Times New Roman";mso-bidi-font-family:Arial;color:#222222'><o:p></o:p></span></p>
+src="index_files/image003.png" v:shapes="_x0000_i1025"><![endif]></span><span
+style='font-size:14.0pt;mso-bidi-font-size:12.0pt;font-family:"Cambria",serif;
+mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:Arial;
+color:#222222'><o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:167.25pt;margin-bottom:
 0in;margin-left:1.0in;margin-bottom:.0001pt;line-height:normal;tab-stops:67.5pt;
@@ -915,27 +900,12 @@ background:#D9D9D9;mso-background-themecolor:background1;mso-background-themesha
 mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:Arial;
 color:#222222'>Our records show you are&nbsp;<u>not</u>&nbsp;currently
 supporting FCEF with a charitable donation.&nbsp; You can make a huge
-difference in the lives of your clients by <span style='background:#D9D9D9;
-mso-shading-themecolor:background1;mso-shading-themeshade:217'>helping fund</span>
-our&nbsp;</span><span style='font-size:13.5pt;font-family:"Arial",sans-serif;
-color:#3A3A3A;background:#D9D9D9;mso-shading-themecolor:background1;mso-shading-themeshade:
-217'>&amp;<span class=SpellE><span class=GramE>ldquo;</span><span
-style='font-size:14.0pt;mso-bidi-font-size:12.0pt;font-family:"Cambria",serif;
-mso-fareast-font-family:"Times New Roman";color:#1F497D'>Mission</span></span></span></span><span
+difference in the lives of your clients by helping fund our&nbsp;</span><span
 style='font-size:14.0pt;mso-bidi-font-size:12.0pt;font-family:"Cambria",serif;
 mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:Arial;
-color:#1F497D'>&nbsp;<span class=SpellE>Impossible<span style='font-size:13.5pt;
-font-family:"Arial",sans-serif;mso-fareast-font-family:Calibri;mso-fareast-theme-font:
-minor-latin;color:#3A3A3A;background:#D9D9D9;mso-shading-themecolor:background1;
-mso-shading-themeshade:217'>&amp;rdquo</span></span></span><span
-style='font-size:13.5pt;font-family:"Arial",sans-serif;color:#3A3A3A;
-background:#D9D9D9;mso-shading-themecolor:background1;mso-shading-themeshade:
-217'>;</span></span><span style='font-size:14.0pt;mso-bidi-font-size:12.0pt;
-font-family:"Cambria",serif;mso-fareast-font-family:"Times New Roman";
-mso-bidi-font-family:Arial;color:#222222;background:#D9D9D9;mso-shading-themecolor:
-background1;mso-shading-themeshade:217'>.</span><span style='font-size:14.0pt;
+color:#1F497D'>“Mission&nbsp;Impossible”</span><span style='font-size:14.0pt;
 mso-bidi-font-size:12.0pt;font-family:"Cambria",serif;mso-fareast-font-family:
-"Times New Roman";mso-bidi-font-family:Arial;color:#222222'>&nbsp;&nbsp; I ask
+"Times New Roman";mso-bidi-font-family:Arial;color:#222222'>.&nbsp;&nbsp; I ask
 that you please search your heart to see if you could&nbsp;<u>start</u>&nbsp;a
 monthly donation to support FCEF and help us fill the gap in required
 donations.</span><span style='font-size:14.0pt;mso-bidi-font-size:12.0pt;
@@ -956,32 +926,14 @@ color:#222222'><o:p></o:p></span></p>
 background:#D9D9D9;mso-background-themecolor:background1;mso-background-themeshade:
 217'><b><span style='font-size:14.0pt;mso-bidi-font-size:12.0pt;font-family:
 "Cambria",serif;mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:
-Arial;color:#222222'>Your mission should you accept, is simply to respond </span></b><span
-style='font-size:13.5pt;font-family:"Arial",sans-serif;color:#3A3A3A;
-background:#D9D9D9;mso-shading-themecolor:background1;mso-shading-themeshade:
-217'>&amp;<span class=SpellE>ldquo;</span><b><span style='font-size:14.0pt;
-mso-bidi-font-size:12.0pt;font-family:"Cambria",serif;mso-fareast-font-family:
-"Times New Roman";color:#222222'>yes</span></b>&amp;rdquo</span>;</span></span><b><span
+Arial;color:#222222'>Your mission should you accept, is simply to respond “yes”
+to this email and include the “amount” you wish to donate.</span></b><span
 style='font-size:14.0pt;mso-bidi-font-size:12.0pt;font-family:"Cambria",serif;
 mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:Arial;
-color:#222222'> to this email and include the </span></b><span
-style='font-size:13.5pt;font-family:"Arial",sans-serif;color:#3A3A3A;
-background:#D9D9D9;mso-shading-themecolor:background1;mso-shading-themeshade:
-217'>&amp;<span class=SpellE>ldquo;</span><b><span style='font-size:14.0pt;
-mso-bidi-font-size:12.0pt;font-family:"Cambria",serif;mso-fareast-font-family:
-"Times New Roman";color:#222222'>amount</span></b></span></span><span
-style='font-size:13.5pt;font-family:"Arial",sans-serif;color:#3A3A3A;
-background:#FEFEFE'> </span><span style='font-size:13.5pt;font-family:"Arial",sans-serif;
-color:#3A3A3A;background:#D9D9D9;mso-shading-themecolor:background1;mso-shading-themeshade:
-217'>&amp;<span class=SpellE>rdquo</span>;</span></span><b><span
-style='font-size:14.0pt;mso-bidi-font-size:12.0pt;font-family:"Cambria",serif;
-mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:Arial;
-color:#222222'> you wish to donate.</span></b><span style='font-size:14.0pt;
-mso-bidi-font-size:12.0pt;font-family:"Cambria",serif;mso-fareast-font-family:
-"Times New Roman";mso-bidi-font-family:Arial;color:#222222'>&nbsp; FCEF will
-start your designated donation from your commissions, effective September 2018.</span><span
-style='font-size:14.0pt;mso-bidi-font-size:12.0pt;font-family:"Arial",sans-serif;
-mso-fareast-font-family:"Times New Roman";color:#222222'><o:p></o:p></span></p>
+color:#222222'>&nbsp; FCEF will start your designated donation from your
+commissions, effective September 2018.</span><span style='font-size:14.0pt;
+mso-bidi-font-size:12.0pt;font-family:"Arial",sans-serif;mso-fareast-font-family:
+"Times New Roman";color:#222222'><o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:167.25pt;margin-bottom:
 0in;margin-left:1.0in;margin-bottom:.0001pt;line-height:normal;tab-stops:67.5pt;
@@ -995,9 +947,9 @@ color:#222222'><o:p></o:p></span></p>
 0in;margin-left:1.0in;margin-bottom:.0001pt;line-height:normal;tab-stops:67.5pt;
 background:#D9D9D9;mso-background-themecolor:background1;mso-background-themeshade:
 217'><b><span style='font-size:16.0pt;font-family:"Arial",sans-serif;
-mso-fareast-font-family:"Times New Roman";color:#222222'>This email will not
-self-destruct;)</span></b><span style='font-size:12.0pt;font-family:"Arial",sans-serif;
-mso-fareast-font-family:"Times New Roman";color:#222222'><o:p></o:p></span></p>
+mso-fareast-font-family:"Times New Roman";color:#222222'>This email will not self-destruct;)</span></b><span
+style='font-size:12.0pt;font-family:"Arial",sans-serif;mso-fareast-font-family:
+"Times New Roman";color:#222222'><o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:167.25pt;margin-bottom:
 0in;margin-left:1.0in;margin-bottom:.0001pt;line-height:normal;tab-stops:67.5pt;
@@ -1039,17 +991,19 @@ background:#D9D9D9;mso-background-themecolor:background1;mso-background-themesha
 0in;margin-left:1.0in;margin-bottom:.0001pt;line-height:normal;tab-stops:67.5pt;
 background:#D9D9D9;mso-background-themecolor:background1;mso-background-themeshade:
 217'><span style='font-size:16.0pt;font-family:Mistral;mso-fareast-font-family:
-"Times New Roman";mso-bidi-font-family:Arial;color:black'>Bill Johnson</span><span
-style='font-size:12.0pt;font-family:"Arial",sans-serif;mso-fareast-font-family:
-"Times New Roman";color:#222222'><o:p></o:p></span></p>
+"Times New Roman";mso-bidi-font-family:Arial;color:black'>Bill <span
+class=SpellE>Johnson<span style='font-size:12.0pt;font-family:"Arial",sans-serif;
+color:#222222'><o:p></o:p></span></span></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:167.25pt;margin-bottom:
 0in;margin-left:1.0in;margin-bottom:.0001pt;line-height:normal;tab-stops:67.5pt;
 background:#D9D9D9;mso-background-themecolor:background1;mso-background-themeshade:
-217'><span style='font-size:12.0pt;font-family:"Times New Roman",serif;
-mso-fareast-font-family:"Times New Roman";color:#44546A'>William M. Johnson</span><span
-style='font-size:12.0pt;font-family:"Arial",sans-serif;mso-fareast-font-family:
-"Times New Roman";color:#222222'><o:p></o:p></span></p>
+217'><span class=SpellE><span style='font-size:12.0pt;font-family:"Times New Roman",serif;
+mso-fareast-font-family:"Times New Roman";color:#44546A'>William</span></span><span
+style='font-size:12.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:
+"Times New Roman";color:#44546A'> M. Johnson</span><span style='font-size:12.0pt;
+font-family:"Arial",sans-serif;mso-fareast-font-family:"Times New Roman";
+color:#222222'><o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:167.25pt;margin-bottom:
 0in;margin-left:1.0in;margin-bottom:.0001pt;line-height:normal;tab-stops:67.5pt;
@@ -1086,8 +1040,8 @@ color:#222222'><o:p></o:p></span></p>
 background:#D9D9D9;mso-background-themecolor:background1;mso-background-themeshade:
 217'><span style='font-size:12.0pt;font-family:"Arial",sans-serif;mso-fareast-font-family:
 "Times New Roman";color:#222222'>&nbsp;</span><span style='font-family:"Arial",sans-serif;
-color:#222222;background:white'>&nbsp;</span><span style='font-size:12.0pt;
-font-family:"Arial",sans-serif;mso-fareast-font-family:"Times New Roman";
+color:#222222;background:white'>&nbsp;</span></span><span style='font-size:
+12.0pt;font-family:"Arial",sans-serif;mso-fareast-font-family:"Times New Roman";
 color:#222222'><o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:167.25pt;margin-bottom:
@@ -1100,9 +1054,10 @@ background:#D9D9D9;mso-background-themecolor:background1;mso-background-themesha
 0in;margin-left:1.0in;margin-bottom:.0001pt;line-height:normal;tab-stops:67.5pt;
 background:#D9D9D9;mso-background-themecolor:background1;mso-background-themeshade:
 217'><b><span style='font-size:14.0pt;font-family:"Arial",sans-serif;
-mso-fareast-font-family:"Times New Roman";color:green'>Save the date! &quot;Chip-in”
-for Education</span></b><span style='font-size:12.0pt;font-family:"Arial",sans-serif;
-mso-fareast-font-family:"Times New Roman";color:#222222'><o:p></o:p></span></p>
+mso-fareast-font-family:"Times New Roman";color:green'>Save the date!
+&quot;Chip-in” for Education</span></b><span style='font-size:12.0pt;
+font-family:"Arial",sans-serif;mso-fareast-font-family:"Times New Roman";
+color:#222222'><o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:167.25pt;margin-bottom:
 0in;margin-left:1.0in;margin-bottom:.0001pt;line-height:normal;tab-stops:67.5pt;
@@ -1116,8 +1071,6 @@ color:#222222'><o:p></o:p></span></p>
 <p class=MsoNormal style='margin-top:0in;margin-right:167.25pt;margin-bottom:
 8.0pt;margin-left:1.0in;tab-stops:67.5pt;background:#D9D9D9;mso-background-themecolor:
 background1;mso-background-themeshade:217'><o:p>&nbsp;</o:p></p>
-
-<div id="music"><embed src="https://www.televisiontunes.com/uploads/audio/Mission%20Impossible.mp3" audio autoplay loop autostart=true loop=true></div>
 
 </div>
 
